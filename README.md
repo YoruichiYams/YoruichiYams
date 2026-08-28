@@ -6,7 +6,7 @@
 <!-- 2. Animated Header (JetBrains Mono, Bold, Larger) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=650&lines=Software+Engineer;Building+clean+%26+efficient+software;Focusing+on+backend+architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Starting+my+journey+in+tech;Learning,+building,+sharing" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,23 +14,23 @@
 
 ### About
 
-Developing scalable backend solutions and command-line tools with a focus on clean architecture, typography, and performance.
+Starting my journey into software development and computer science. Documenting my learning process, working through fundamentals, and preparing my first open-source repositories.
 
-* **Focus:** Distributed systems, APIs, CLI tools
-* **Location:** Remote / Worldwide
-* **Status:** Open to new projects & collaborations
+* **Focus:** CS fundamentals, programming basics, modern workflows
+* **Goal:** Building solid practical skills and hands-on projects
+* **Status:** Learning in public & exploring new technologies
 
 ---
 
-### Stack
+### Learning Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=E6EDF3" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=E6EDF3" alt="Go" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E6EDF3" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=E6EDF3" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=E6EDF3" alt="Docker" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=E6EDF3" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=E6EDF3" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=E6EDF3" alt="Linux" />
+  <img src="https://img.shields.io/badge/Markdown-0D1117?style=flat-square&logo=markdown&logoColor=E6EDF3" alt="Markdown" />
 </p>
 
 ---
