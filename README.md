@@ -3,10 +3,10 @@
   <img src="./assets/banner.png" alt="Header Banner" width="100%" />
 </p>
 
-<!-- 2. Animated Header (JetBrains Mono, Bold, Larger) -->
+<!-- 2. Animated Header (JetBrains Mono, Bold) -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Starting+my+journey+in+tech;Learning,+building,+sharing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+AI+Tooling;Building+MCP+Servers+%26+Context+Engines;Full-Stack+%26+Developer+Tooling" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,24 +14,35 @@
 
 ### About
 
-Starting my journey into software development and computer science. Documenting my learning process, working through fundamentals, and preparing my first open-source repositories.
+Software engineer focused on **AI tooling**, **Model Context Protocol (MCP)** infrastructure, and lightweight web architecture. I build reliable developer tools, memory systems for autonomous agents, and fast web applications.
 
-* **Focus:** CS fundamentals, programming basics, modern workflows
-* **Goal:** Building solid practical skills and hands-on projects
-* **Status:** Learning in public & exploring new technologies
+* **Specialization:** MCP servers, agent context & memory pipelines, web tooling
+* **Architecture:** Modular, type-safe, minimal external dependencies
+* **Currently:** Expanding open-source agent tooling & PyPI packages
 
 ---
 
-### Learning Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=E6EDF3" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=E6EDF3" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=E6EDF3" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=E6EDF3" alt="React" />
+  <img src="https://img.shields.io/badge/Astro-0D1117?style=flat-square&logo=astro&logoColor=E6EDF3" alt="Astro" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=E6EDF3" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=E6EDF3" alt="Vite" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=E6EDF3" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=E6EDF3" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=E6EDF3" alt="Linux" />
-  <img src="https://img.shields.io/badge/Markdown-0D1117?style=flat-square&logo=markdown&logoColor=E6EDF3" alt="Markdown" />
 </p>
+
+---
+
+### Featured Work
+
+* [**mnemo**](https://github.com/YoruichiYams/mnemo) — Lightweight long-term memory MCP server for AI agents with graph knowledge modeling. Published on PyPI.
+* [**SchemaSlim**](https://github.com/YoruichiYams/SchemaSlim) — Context schema optimizer and token reduction pipeline for LLM agents and web clients.
+* [**DevGuard**](https://github.com/YoruichiYams/DevGuard) — Workspace security scanner and MCP agent tool for secrets audit and repo health.
 
 ---
 
